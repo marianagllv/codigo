@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Kim Taehyung</title>
+</head>
+
+<body style="background-color: hotpink; font-family: Arial; color: white; text-align: center;">
+
+```
+<h1>Kim Taehyung (V - BTS)</h1>
+
+<h2>Quem e</h2>
+<p>Kim Taehyung e um cantor sul-coreano do grupo BTS.</p>
+
+<h2>Carreira</h2>
+<p>Ele e conhecido pela sua voz unica e presenca de palco.</p>
+
+<h2>Curiosidades</h2>
+<p>Taehyung tambem e ator e muito querido pelos fas.</p>
+
+<hr>
+
+<p>Ele e considerado <strong>um dos idols mais populares</strong> do mundo.</p>
+```
+
+</body>
+</html>
